@@ -61,4 +61,10 @@ Este repositorio sirve como:
  - Pistas (en algunos ejercicios)
  - Mi resolucion (puede que haya más, dejo la que a mi me funciona)
 
+---
+
+📁 Estructura del repositorio
+/Ejercicios_Kepler.ipynb   # Notebook con los ejercicios   
+/README.md                 # Este archivo   
+
 Espero que os sirva!
