@@ -63,7 +63,7 @@ Este repositorio sirve como:
 
 ---
 
-📁 Estructura del repositorio
+📁 Estructura del repositorio    
 /Ejercicios_Kepler.ipynb   # Notebook con los ejercicios      
 /README.md                 # Este archivo      
 
